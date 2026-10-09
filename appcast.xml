@@ -3,6 +3,14 @@
   <channel>
     <title>Utter</title>
     <item>
+      <title>Utter 0.1.4</title>
+      <pubDate>Fri, 09 Oct 2026 18:59:57 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/storypixel/utter-releases/releases/download/v0.1.4/Utter-0.1.4.dmg" length="14643312" type="application/octet-stream" sparkle:edSignature="kYetpZsO/lAXfn07kALuMzQM7gPil24mDtsWFh6eyptNBigMCIx6p0xG0SkhaIZmvd4H5mJynTN80aCcdUrkBA=="/>
+    </item>
+    <item>
       <title>Utter 0.1.3</title>
       <pubDate>Wed, 30 Sep 2026 22:04:33 +0000</pubDate>
       <sparkle:version>4</sparkle:version>
